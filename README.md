@@ -20,7 +20,7 @@
 
 ## Indoor Autonomous Disinfecting Robot
 
-> TIME: 
+> TIME: 26:57
 
 ![indoor.jpg](indoor.jpg)
 
@@ -40,11 +40,20 @@
 
 ## Fire Fighters
 
-> TIME: 
+> TIME: 14:37
 
 ![fire.jpg](fire.jpg)
 
-*
+* Nice Presentation
+  * lots of pictures
+  * good breakdown of equations
+  * clear explanation of comunication protocol they designed
+  * great live demo of UI (no PCB, just discussed?)
+  * nice slides covering each sensor and component
+  * standards and constraints
+* Delivered Working Prototype
+  * awesome UI (offline support)
+* Good Work Effort
 
 ## Malware Analysis Tool
 
@@ -52,7 +61,14 @@
 
 ![malware.jpg](malware.jpg)
 
-*
+* Nice Presentation
+  * lots of pictures
+  * good breakdown of equations
+  * standards and constraints
+* Delivered Working Prototype
+  * nice robot design
+* Good Work Effort
+  * need a better algorithm to process distance from sonar sensors
 
 ## M2 Band
 
@@ -60,7 +76,14 @@
 
 ![m2band.jpg](m2band.jpg)
 
-*
+* Nice Presentation
+  * lots of pictures
+  * good breakdown of equations
+  * standards and constraints
+* Delivered Working Prototype
+  * nice robot design
+* Good Work Effort
+  * need a better algorithm to process distance from sonar sensors
 
 ## Pianists
 
@@ -68,7 +91,14 @@
 
 ![pianists.jpg](pianists.jpg)
 
-*
+* Nice Presentation
+  * lots of pictures
+  * good breakdown of equations
+  * standards and constraints
+* Delivered Working Prototype
+  * nice robot design
+* Good Work Effort
+  * need a better algorithm to process distance from sonar sensors
 
 # Tuesday, May 17, 2022
 
@@ -78,5 +108,12 @@
 
 ![s.jpg](s.jpg)
 
-* s
+* Nice Presentation
+  * lots of pictures
+  * good breakdown of equations
+  * standards and constraints
+* Delivered Working Prototype
+  * nice robot design
+* Good Work Effort
+  * need a better algorithm to process distance from sonar sensors
 
