@@ -17,7 +17,7 @@
   * meaningful diagrams
   * good descriptions of components
   * great live demo
-  * standards and constraints
+  * ****standards and constraints**
 * Delivered Working Prototype
   * beautiful design
 * Solid Work Effort!
@@ -39,7 +39,7 @@
   * good debugging (log formatted) videos
   * nice slides covering each sensor and component
   * detailed budget slide
-  * standards and constraints
+  * **standards and constraints**
 * Delivered Working Prototype
   * nice robot design
   * good placement of UV strip
@@ -56,17 +56,16 @@
 > "Shell Shetti" <sshetti@udel.edu>
 > "Ben Weinel" <bweinel@udel.edu>
 
-
 * Nice Presentation
   * lots of pictures
   * good breakdown of equations
   * clear explanation of comunication framework they designed
   * great live demo of UI (no PCB, just discussed?)
   * nice slides covering each sensor and component
-  * standards and constraints
+  * ****standards and constraints**
 * Delivered Working Prototype
   * awesome UI (offline support)
-* Good Work Effort
+* Great Work Effort
 
 ## Malware Analysis Tool
 
@@ -78,7 +77,7 @@
 > "Christopher-Neil Mendoza" <mendozac@udel.edu>
 > "Alex Pickett" <aepick@udel.edu>
 
-* Nice Presentation
+* Great Presentation
   * lots of pictures
   * nice demo video of webUI
   * great work on detecting novel malware
@@ -86,11 +85,10 @@
 * Delivered Working Prototype
   * nice electron webUI design
 * Good Work Effort
-  * need a better algorithm to process distance from sonar sensors
 
 ## M2 Band
 
-> TIME: 
+> TIME: 19:45
 
 ![m2band.jpg](m2band.jpg)
 > "Luke Fanizzi" <lfanizzi@udel.edu>
@@ -101,12 +99,15 @@
 
 * Nice Presentation
   * lots of pictures
-  * good breakdown of equations
-  * standards and constraints
+  * cool investigations (interviews with students at a local elementary school)
+  * clean diagrams (pcb layout, schematics, source code, app layout)
+  * great explanation for mobile app and web framework
+  * good demo video of mobile app communicating with the web framework
+  * ****standards and constraints**
 * Delivered Working Prototype
-  * nice robot design
-* Good Work Effort
-  * need a better algorithm to process distance from sonar sensors
+  * solid moble app and esp32 app
+  * good hardware design
+* Solid Work Effort
 
 ## Pianists
 
