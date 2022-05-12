@@ -6,6 +6,10 @@
 > TIME: 14:35
 
 ![ubass.jpg](ubass.jpg)
+> "Daniel DeSantis" <dmdesant@udel.edu>
+> "Cameron Frey" <camfrey@udel.edu>
+> "Alex Hayes" <ajchayes@udel.edu>
+> "Dylan Laplace" <dlaplace@udel.edu>
 
 * Nice Presentation
   * lots of pictures
@@ -23,6 +27,10 @@
 > TIME: 26:57
 
 ![indoor.jpg](indoor.jpg)
+> "Haifeng Huang" <rick@udel.edu>
+> "Yucheng Niu" <uydstyu@udel.edu>
+> "Shihao Xiong" <kenney@udel.edu>
+> "Yi Zhen" <yizhen@udel.edu>
 
 * Good Presentation
   * lots of pictures
@@ -43,11 +51,16 @@
 > TIME: 14:37
 
 ![fire.jpg](fire.jpg)
+> "RJ Dawson" <rjdawson@udel.edu>
+> "William Shahan" <wmshahan@udel.edu>
+> "Shell Shetti" <sshetti@udel.edu>
+> "Ben Weinel" <bweinel@udel.edu>
+
 
 * Nice Presentation
   * lots of pictures
   * good breakdown of equations
-  * clear explanation of comunication protocol they designed
+  * clear explanation of comunication framework they designed
   * great live demo of UI (no PCB, just discussed?)
   * nice slides covering each sensor and component
   * standards and constraints
@@ -57,16 +70,21 @@
 
 ## Malware Analysis Tool
 
-> TIME: 
+> TIME: 17:20
 
 ![malware.jpg](malware.jpg)
+> "Brandon Brooks" <brooksbr@udel.edu>
+> "Liam Jordan" <lkj@udel.edu>
+> "Christopher-Neil Mendoza" <mendozac@udel.edu>
+> "Alex Pickett" <aepick@udel.edu>
 
 * Nice Presentation
   * lots of pictures
-  * good breakdown of equations
-  * standards and constraints
+  * nice demo video of webUI
+  * great work on detecting novel malware
+  * good features engineering and evaluating feature selection
 * Delivered Working Prototype
-  * nice robot design
+  * nice electron webUI design
 * Good Work Effort
   * need a better algorithm to process distance from sonar sensors
 
@@ -75,6 +93,11 @@
 > TIME: 
 
 ![m2band.jpg](m2band.jpg)
+> "Luke Fanizzi" <lfanizzi@udel.edu>
+> "Angelina Gargiulo" <angie@udel.edu>
+> "Matt Greenlee" <mattg@udel.edu>
+> "Mike Joyce" <joycem@udel.edu>
+> "Drew Koense" <dkoense@udel.edu>
 
 * Nice Presentation
   * lots of pictures
@@ -90,6 +113,10 @@
 > TIME: 
 
 ![pianists.jpg](pianists.jpg)
+> "Justin Clavette" <jdclav@udel.edu>
+> "Sebastian Cortes" <scortesz@udel.edu>
+> "Nick Kater" <njkater@udel.edu>
+> "Dang Nguyen" <dnguyen@udel.edu>
 
 * Nice Presentation
   * lots of pictures
