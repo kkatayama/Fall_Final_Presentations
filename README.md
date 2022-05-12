@@ -10,10 +10,10 @@
 * Nice Presentation
   * lots of pictures
   * clear block diagrams
-  * standards and constraints
   * meaningful diagrams
   * good descriptions of components
   * great live demo
+  * standards and constraints
 * Delivered Working Prototype
   * beautiful design
 * Solid Work Effort!
@@ -29,7 +29,9 @@
   * simple high-level block diagrams
   * several demo videos
   * good debugging (log formatted) videos
-  * detailed slides covering each sensor and component
+  * nice slides covering each sensor and component
+  * detailed budget slide
+  * standards and constraints
 * Delivered Working Prototype
   * nice robot design
   * good placement of UV strip
