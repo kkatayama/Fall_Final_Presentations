@@ -114,6 +114,7 @@
 > TIME: 
 
 ![pianists.jpg](pianists.jpg)
+![pianists2.jpg](pianists2.jpg)
 > "Justin Clavette" <jdclav@udel.edu>
 > "Sebastian Cortes" <scortesz@udel.edu>
 > "Nick Kater" <njkater@udel.edu>
@@ -121,16 +122,18 @@
 
 * Nice Presentation
   * lots of pictures
-  * good breakdown of equations
-  * standards and constraints
+  * good explanation of web-to-hardware framework
+  * nice workflow of machine learning model and image processing
+  * cool compiler design
+  * ****standards and constraints**
 * Delivered Working Prototype
-  * nice robot design
-* Good Work Effort
-  * need a better algorithm to process distance from sonar sensors
+  * solid hardware design
+  * great web app design
+* Solid Work Effort
 
 # Tuesday, May 17, 2022
 
-## Sample
+<!-- ## Sample
 
 > TIME: s
 
@@ -144,4 +147,4 @@
   * nice robot design
 * Good Work Effort
   * need a better algorithm to process distance from sonar sensors
-
+-->
