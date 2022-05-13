@@ -5,7 +5,7 @@
 
 > TIME: 14:35
 
-![ubass.jpg](https://raw.githubusercontent.com/kkatayama/Fall_Final_Presentations/main/ubass.jpg?token=GHSAT0AAAAAABQOVRHBYGAONLR2WWEXCGGGYT5W2GQ)
+![ubass.jpg](https://raw.githubusercontent.com/kkatayama/Fall_Final_Presentations/main/ubass.jpg)
 > "Daniel DeSantis" <dmdesant@udel.edu>
 > "Cameron Frey" <camfrey@udel.edu>
 > "Alex Hayes" <ajchayes@udel.edu>
@@ -26,7 +26,7 @@
 
 > TIME: 26:57
 
-![indoor.jpg](https://raw.githubusercontent.com/kkatayama/Fall_Final_Presentations/main/indoor.jpg?token=GHSAT0AAAAAABQOVRHAX3ZFZ4QK7MZZ7J6GYT5W2IA)
+![indoor.jpg](https://raw.githubusercontent.com/kkatayama/Fall_Final_Presentations/main/indoor.jpg)
 > "Haifeng Huang" <rick@udel.edu>
 > "Yucheng Niu" <uydstyu@udel.edu>
 > "Shihao Xiong" <kenney@udel.edu>
@@ -50,7 +50,7 @@
 
 > TIME: 14:37
 
-![fire.jpg](https://raw.githubusercontent.com/kkatayama/Fall_Final_Presentations/main/fire.jpg?token=GHSAT0AAAAAABQOVRHALIA4B2YH2B26X6JEYT5W3LQ)
+![fire.jpg](https://raw.githubusercontent.com/kkatayama/Fall_Final_Presentations/main/fire.jpg)
 > "RJ Dawson" <rjdawson@udel.edu>
 > "William Shahan" <wmshahan@udel.edu>
 > "Shell Shetti" <sshetti@udel.edu>
@@ -59,7 +59,7 @@
 * Nice Presentation
   * lots of pictures
   * good breakdown of equations
-  * clear explanation of comunication framework they designed
+  * clear explanation of communication framework they designed
   * great live demo of UI (no PCB, just discussed?)
   * nice slides covering each sensor and component
   * ****standards and constraints**
@@ -71,7 +71,7 @@
 
 > TIME: 17:20
 
-![malware.jpg](https://raw.githubusercontent.com/kkatayama/Fall_Final_Presentations/main/malware.jpg?token=GHSAT0AAAAAABQOVRHB7LMZP5UFWF2ZGSFSYT5W3MQ)
+![malware.jpg](https://raw.githubusercontent.com/kkatayama/Fall_Final_Presentations/main/malware.jpg)
 > "Brandon Brooks" <brooksbr@udel.edu>
 > "Liam Jordan" <lkj@udel.edu>
 > "Christopher-Neil Mendoza" <mendozac@udel.edu>
@@ -90,7 +90,7 @@
 
 > TIME: 19:45
 
-![m2band.jpg](https://raw.githubusercontent.com/kkatayama/Fall_Final_Presentations/main/m2band.jpg?token=GHSAT0AAAAAABQOVRHA6J2PUBJUHGS2V3DMYT5W6BA)
+![m2band.jpg](https://raw.githubusercontent.com/kkatayama/Fall_Final_Presentations/main/m2band.jpg)
 > "Luke Fanizzi" <lfanizzi@udel.edu>
 > "Angelina Gargiulo" <angie@udel.edu>
 > "Matt Greenlee" <mattg@udel.edu>
@@ -113,8 +113,8 @@
 
 > TIME: 20:15
 
-![pianists.jpg](https://raw.githubusercontent.com/kkatayama/Fall_Final_Presentations/main/pianists.jpg?token=GHSAT0AAAAAABQOVRHA2YZKAJZ6WM5RE4ZYYT5WZ3Q)
-![pianists2.jpg](https://raw.githubusercontent.com/kkatayama/Fall_Final_Presentations/main/pianists2.jpg?token=GHSAT0AAAAAABQOVRHBG7P6463D6TMQKF5OYT5WZ4Q)
+![pianists.jpg](https://raw.githubusercontent.com/kkatayama/Fall_Final_Presentations/main/pianists.jpg)
+![pianists2.jpg](https://raw.githubusercontent.com/kkatayama/Fall_Final_Presentations/main/pianists2.jpg)
 > "Justin Clavette" <jdclav@udel.edu>
 > "Sebastian Cortes" <scortesz@udel.edu>
 > "Nick Kater" <njkater@udel.edu>
@@ -125,7 +125,7 @@
   * good explanation of web-to-hardware framework
   * nice workflow of machine learning model and image processing
   * cool compiler design
-  * ****standards and constraints**
+  * **standards and constraints**
 * Delivered Working Prototype
   * solid hardware design
   * great web app design
